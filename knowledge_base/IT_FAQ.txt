@@ -1,0 +1,79 @@
+NETWORK ISSUE
+
+If Wi-Fi or internet is not connecting:
+1. Check whether Wi-Fi and Airplane Mode settings are configured properly.
+2. Disconnect and reconnect to the corporate Wi-Fi network.
+3. Forget the network and re-enter the Wi-Fi password.
+4. Run Windows Network Troubleshooter or flush DNS using ipconfig /flushdns.
+5. Restart the laptop and router.
+6. Contact IT support if the issue continues.
+
+
+EMAIL ISSUE
+
+If Outlook or corporate email is not working or not syncing:
+1. Check if the internet connection is active.
+2. Verify your email address and password, especially after a recent password reset.
+3. Restart Microsoft Outlook or try accessing Webmail via browser.
+4. Check if Mailbox storage is full and archive old emails.
+5. Contact IT support if the issue continues.
+
+
+LOGIN ISSUE
+
+If the user cannot log in or account is locked:
+1. Check the username format (domain\username or email).
+2. Verify the password and check if the keyboard Caps Lock or Num Lock key is on.
+3. If the account is locked due to multiple failed attempts, wait 15 minutes or use the Self-Service Password Reset (SSPR) portal.
+4. Ensure you are connected to the office network or VPN for cached credential updates.
+5. Contact IT support for immediate account unlock.
+
+
+SOFTWARE ISSUE
+
+If an application is not opening, crashing, or freezing:
+1. Force close the application from Task Manager (Ctrl + Shift + Esc) and reopen it.
+2. Restart the computer to clear temporary memory locks.
+3. Check whether the application or Windows OS needs pending updates.
+4. Clear application cache or run the program as Administrator.
+5. Contact IT support if reinstallation or license activation is required.
+
+
+VPN ISSUE
+
+If corporate VPN is not connecting or disconnecting frequently:
+1. Verify that your base home/mobile internet connection is stable.
+2. Re-enter VPN login credentials and approve the Multi-Factor Authentication (MFA) prompt on your phone.
+3. Switch VPN gateway server if multiple regions are available.
+4. Restart the VPN client application and check firewall/antivirus blocks.
+5. Contact IT support if the issue continues.
+
+
+HARDWARE ISSUE
+
+If laptop, keyboard, mouse, or display is malfunctioning:
+1. Check all cable connections, docking station ports, and power adapter.
+2. For external keyboard or mouse issues, unplug and test on a different USB port or replace batteries.
+3. For laptop display or audio glitches, reboot the system and update device drivers.
+4. If physical damage, overheating, or screen flickering persists, do not open the hardware casing.
+5. Submit a hardware replacement or inspection request to IT support.
+
+
+PRINTER ISSUE
+
+If office printer is not printing or showing offline:
+1. Check if the printer is powered on and connected to the same office network.
+2. Clear stuck print jobs from the Windows Print Queue.
+3. Verify that the correct default printer is selected before printing.
+4. Check for paper jams or low toner/ink alerts on the printer display.
+5. Contact IT support with the printer asset ID if the issue persists.
+
+
+PERFORMANCE ISSUE
+
+If laptop or computer is running very slow:
+1. Open Task Manager (Ctrl + Shift + Esc) and close high-CPU or high-memory background apps.
+2. Ensure at least 15% of C: drive disk space is free.
+3. Restart the system if uptime exceeds several days.
+4. Run a quick antivirus scan using Windows Security.
+5. Contact IT support if slowness persists during business hours.
